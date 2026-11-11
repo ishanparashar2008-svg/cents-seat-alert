@@ -43,10 +43,10 @@ export function parseRows(html) {
       }
       continue;
     }
-    if (!/^CENT@(HOME|UNI)$/i.test(cells[0])) continue;
+    if (!/^CENT@(HOME|CASA|UNI)$/i.test(cells[0])) continue;
     const row = {};
     COLS.forEach((col, i) => { row[col] = cells[index?.[col] ?? i] ?? ''; });
-    row.format = row.format.toUpperCase();
+    row.format = row.format.toUpperCase().replace('CENT@CASA', 'CENT@HOME');
     row.home = row.format === 'CENT@HOME';
     row.open = isOpen(row);
     row.key = [row.format, row.university, row.city, row.date].join('|');
