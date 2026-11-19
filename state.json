@@ -14,7 +14,7 @@
     },
     "CENT@HOME|Politecnico di Milano|MILANO|26/11/2026": {
       "open": false,
-      "state": "NOT LONGER AVAILABLE"
+      "state": "NOT BOOKABLE"
     },
     "CENT@HOME|Università degli studi di Padova|PADOVA|26/11/2026": {
       "open": false,
@@ -33,6 +33,10 @@
       "state": "AVAILABLE SEATS"
     },
     "CENT@HOME|Sapienza Università di Roma|ROMA|17/12/2026": {
+      "open": false,
+      "state": "NOT LONGER AVAILABLE"
+    },
+    "CENT@HOME|Politecnico di Milano|MILANO|17/12/2026": {
       "open": false,
       "state": "NOT LONGER AVAILABLE"
     },
