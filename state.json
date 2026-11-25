@@ -28,6 +28,10 @@
       "open": false,
       "state": "BOOKINGS CLOSED"
     },
+    "CENT@UNI|Sapienza Universita' di Roma - Facolta' di Ingegneria (I3S) - Dipartimento di Scienze statistiche|ROMA|17/12/2026": {
+      "open": true,
+      "state": "AVAILABLE SEATS"
+    },
     "CENT@UNI|Universita' degli studi di Messina|MESSINA|17/12/2026": {
       "open": true,
       "state": "AVAILABLE SEATS"
