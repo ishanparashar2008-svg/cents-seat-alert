@@ -1,33 +1,5 @@
 {
   "sessions": {
-    "CENT@UNI|Universita' degli studi di Trieste|TRIESTE|26/11/2026": {
-      "open": false,
-      "state": "BOOKINGS CLOSED"
-    },
-    "CENT@UNI|Universita' degli studi di Messina|MESSINA|26/11/2026": {
-      "open": false,
-      "state": "BOOKINGS CLOSED"
-    },
-    "CENT@HOME|Sapienza Università di Roma|ROMA|26/11/2026": {
-      "open": false,
-      "state": "BOOKINGS CLOSED"
-    },
-    "CENT@HOME|Politecnico di Milano|MILANO|26/11/2026": {
-      "open": false,
-      "state": "BOOKINGS CLOSED"
-    },
-    "CENT@HOME|Università degli studi di Padova|PADOVA|26/11/2026": {
-      "open": false,
-      "state": "BOOKINGS CLOSED"
-    },
-    "CENT@HOME|Università degli studi di Teramo|TERAMO|26/11/2026": {
-      "open": false,
-      "state": "BOOKINGS CLOSED"
-    },
-    "CENT@HOME|Università Ca' Foscari Venezia|VENEZIA|26/11/2026": {
-      "open": false,
-      "state": "BOOKINGS CLOSED"
-    },
     "CENT@UNI|Sapienza Universita' di Roma - Facolta' di Ingegneria (I3S) - Dipartimento di Scienze statistiche|ROMA|17/12/2026": {
       "open": false,
       "state": "NOT LONGER AVAILABLE"
@@ -55,5 +27,5 @@
   },
   "failures": 0,
   "lastUrgentAt": null,
-  "lastHeartbeat": "2026-11-26"
+  "lastHeartbeat": "2026-11-27"
 }
